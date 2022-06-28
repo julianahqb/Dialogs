@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+    <string name="openDialog">Open Dialog</string>
+    <string name="sair">Deseja realmente sair?</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="bye">Que pena...</string>
+    <string name="thanks">Não vai se arrepender!</string>
+    <string name="openDialogSimpleList">Open Dialog Simple List</string>
+    <string name="tituloCarros">Escolha um carro:</string>
+    <string name="respCarros">Voce escolheu o carro </string>
+    <string name="OK">OK</string>
+    <string name="OpenTimePicker">Open TimePicker</string>
+    <string name="OpenDatePicker">Open DatePicker</string>
+
+    <string-array name="carros">
+        <item>Fusca</item>
+        <item>Palio</item>
+        <item>Gol</item>
+        <item>Fiat 147</item>
+    </string-array>
+
+</resources>
